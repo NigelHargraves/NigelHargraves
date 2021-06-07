@@ -1,4 +1,4 @@
-<img src="/NHwebdevbanner.png" alt"banner"/>
+<img src="/NHwebdevbanner.png" alt="banner"/>
 ### Hi there welcome to my hithub page👋
 
 
