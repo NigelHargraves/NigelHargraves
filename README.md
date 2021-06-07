@@ -2,7 +2,7 @@
 
 ---
 
-### Hi there welcome to my hithub page👋
+### Hi there welcome to my github page👋
 
 My name is Nigel Hargraves I am a trainee web developer from Wakefield, UK.
 
