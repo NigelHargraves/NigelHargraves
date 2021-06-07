@@ -1,5 +1,12 @@
 <img src="/NHwebdevbanner.png" alt="banner"/>
+
+---
+
 ### Hi there welcome to my hithub page👋
+
+My name is Nigel Hargraves I am a trainee web developer from Wakefield, UK.
+
+🌱 I’m currently learning Web and App Development with Javascript and APIs (JAMStack)
 
 
 <!--
